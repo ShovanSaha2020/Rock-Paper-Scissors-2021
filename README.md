@@ -11,7 +11,7 @@ Game options are : rock,gun,lightning,devil,dragon,water,air,paper,sponge,wolf,t
 The game rules are in the following link:
 https://umop.com/rps15.htm
 
-##### How to play this game: 
+How to play this game: 
 1. At first, the game will ask the user their name.
 2. Then it will ask the user to enter the options they want to use in the game (The comma has to be used to separate the options).
 3. If the input is an empty line, the game will run using the default options (rock, paper, scissors).
