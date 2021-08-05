@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-2021
 
-## Jetbrains Academy Project | Level :  Medium
+## JetBrains Academy Project | Level :  Medium
 
 ### About
 ![Advanced Rock Paper Scissor Game](https://umop.com/images/rps15.jpg "Advanced Rock Paper Scissor Game With 15 Options")
@@ -25,7 +25,7 @@ How to play this game:
 
 
 ### Example Outputs:
-
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
 ##### Example 1: 
 ```
 Enter your name: > Tim
